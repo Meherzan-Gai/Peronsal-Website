@@ -1,0 +1,44 @@
+
+body{
+    margin-left: 0em;
+    margin-right: 0em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    background-color: #97D2CC;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h1, h2, h3, h4, h5, h6, p{
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+
+}
+
+
+
+#title-pane{
+    background-color: #FFDDD2;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 2em;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    display: block;
+}
+
+#contact-pane{
+    background-color: #FFDDD2;
+    float: right;
+    padding-bottom: 1.5em;
+
+    margin-left: 1em;
+    margin-right: 1em;
+
+    
+}
+.contact{
+    text-align: left;
+    margin-left: 1.4em;
+
+}
